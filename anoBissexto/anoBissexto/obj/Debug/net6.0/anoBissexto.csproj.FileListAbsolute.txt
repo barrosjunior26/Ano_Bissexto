@@ -1,0 +1,15 @@
+C:\Users\barro\workspace\Bissexto\anoBissexto\anoBissexto\bin\Debug\net6.0\anoBissexto.exe
+C:\Users\barro\workspace\Bissexto\anoBissexto\anoBissexto\bin\Debug\net6.0\anoBissexto.deps.json
+C:\Users\barro\workspace\Bissexto\anoBissexto\anoBissexto\bin\Debug\net6.0\anoBissexto.runtimeconfig.json
+C:\Users\barro\workspace\Bissexto\anoBissexto\anoBissexto\bin\Debug\net6.0\anoBissexto.dll
+C:\Users\barro\workspace\Bissexto\anoBissexto\anoBissexto\bin\Debug\net6.0\anoBissexto.pdb
+C:\Users\barro\workspace\Bissexto\anoBissexto\anoBissexto\obj\Debug\net6.0\anoBissexto.csproj.AssemblyReference.cache
+C:\Users\barro\workspace\Bissexto\anoBissexto\anoBissexto\obj\Debug\net6.0\anoBissexto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barro\workspace\Bissexto\anoBissexto\anoBissexto\obj\Debug\net6.0\anoBissexto.AssemblyInfoInputs.cache
+C:\Users\barro\workspace\Bissexto\anoBissexto\anoBissexto\obj\Debug\net6.0\anoBissexto.AssemblyInfo.cs
+C:\Users\barro\workspace\Bissexto\anoBissexto\anoBissexto\obj\Debug\net6.0\anoBissexto.csproj.CoreCompileInputs.cache
+C:\Users\barro\workspace\Bissexto\anoBissexto\anoBissexto\obj\Debug\net6.0\anoBissexto.dll
+C:\Users\barro\workspace\Bissexto\anoBissexto\anoBissexto\obj\Debug\net6.0\refint\anoBissexto.dll
+C:\Users\barro\workspace\Bissexto\anoBissexto\anoBissexto\obj\Debug\net6.0\anoBissexto.pdb
+C:\Users\barro\workspace\Bissexto\anoBissexto\anoBissexto\obj\Debug\net6.0\anoBissexto.genruntimeconfig.cache
+C:\Users\barro\workspace\Bissexto\anoBissexto\anoBissexto\obj\Debug\net6.0\ref\anoBissexto.dll
